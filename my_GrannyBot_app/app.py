@@ -29,47 +29,47 @@ st.markdown("""
 # ---------- Lists with 10 items each ----------
 
 totkay = [
-    "🧂 Sardard mein arq-e-gulab se maatha sekhna mufeed hay.",
+    "🧂 Sar dard mein arrq-e-gulab mathay par lagana mufeed hay.",
     "🥗 Zaytun ka tail chehre ki jild ke liye behtareen hay.",
-    "🌿 Haldi aur doodh ka mix thand ke liye acha hay.",
+    "🌿 Haldi aur doodh ka mixure haddi k dard ke liye acha hay.",
     "🍵 Adrak ka kehwa zukaam mein bohat faida deta hay.",
-    "🌱 Neem ke patton ka lep daano ke liye behtareen hay.",
+    "🌱 Neem kay patto ka lep daano ke liye behtareen hay.",
     "🧴 Multani mitti chehre ke liye natural cleanser hay.",
     "🖤 Kalonji har marz ka ilaj hai siwae maut ke.",
     "🥛 Raat ko doodh mein badam bhigo kar khana dimagh ke liye acha hay.",
-    "🌿 Munh se badbu door karne ke liye sauf ka istemal karein.",
+    "🌿 Munh se badbu dur karne ke liye sauf ka istemal karein.",
     "✨ Gharelu ubtan chehre ko chamakdaar banata hay."
 ]
 
 kahaniyan = [
-    "📖 Ek baar ka zikr hai, ek chor ne budhi aurat ki madad ki aur badle mein uska dil badal gaya.",
-    "🐦 Ek choti si chiriya ne apni mehnat se sabko hairan kar diya.",
-    "🤲 Ek waqt tha jab aik gareeb ne apna aakhri paisa kisi bhookay ko de diya.",
+    "📖 Ek baar ka zikr hai, ek chor ne buddhi aurat ki maddad ki aur baddleay mein uska dil baddal gaya.",
+    "🐦 Pyaasay kaway ne kankar daal kar paani uthaya aur sabit kiya ke soch jeet jati hai,taqqat nahi." 💧
     "👞 Ek mochi ne apne kaam se izzat kamai aur logon ka dil jeeta.",
-    "👧 Ek larki har roz ek budhi aurat ko khana deti thi aur usay dua milti thi.",
-    "🦁 Ek sher aur chuhe ki dosti ne sabko hairan kar diya.",
+    "👧 Ek larki har roz ek budhi aurat ko khana dayti thi aur ussay  dua milti thi.",
+    "🦁 Ek sher aur chuhe ki dosti ne sabko hayrran kar diya.",
     "🌸 Ek nanhi si bachi ne sabak diya ke ahankaar kabhi acha nahi hota.",
-    "👴 Ek buzurg ne bachon ko sabr ka matlab samjhaya.",
-    "👨‍🦯 Ek andha shakhs roshni ka raasta dikhata tha.",
-    "🙏 Ek waqt tha jab ek choti se madad ne kisi ki zindagi badal di."
+    "👴 Ek buzrug ne bachon ko sabr ka matlab samjhayaa.",
+    "🐦 Ek Choti si chirya ne tootay hue par ke saath bhi parwaaz ka khwab nahi chhoda."  
+    "🐢 Sab kachway ki raftaar ka mazak uratay rahe, or wohi kharghos say pahlay manzil par pohanch gaya.",
+    "🙏 Ek waqt tha jab ek choti se maddad nay kisi ki zindagi baddal di."
 ]
 
 nasihatain = [
     "⏳ Beta, waqt ki qadr karo, ye dobara nahi milta.",
-    "🗣️ Sada sach bolna, jhoot se hamesha doori ikhtiyar karo.",
-    "🕌 Namaz ki pabandi zindagi mein barkat laati hai.",
-    "💞 Apno se pyar se baat karo, zindagi choti si hai.",
-    "🙏 Hamesha shukar guzar raho, jitna hai usi mein khushi dhoondo.",
-    "📚 Parhne ki aadat daalo, ilm kabhi zaya nahi jaata.",
-    "💫 Buron ka jawab achai se do, Allah sab dekhta hai.",
-    "💔 Kisi ka dil mat dukhao, dil Allah ka ghar hota hai.",
+    "🗣️ hamesha sach bolo or jhoot se doori ikhtiyar karo.",
+    "🕌 Namaaz ki pabandi zindagi mein barkat laati hay.",
+    "💞 Apno se pyar se baat karo, zindagi choti si hay.",
+    "🙏 Hamesha shukar guzar raho, jitna hay usi mein khushi dhoondo.",
+    "📚 Parhne ki aadat daalo, eilm kabhi zay nahi jaata.",
+    "💫 Buron ka jawab achai se do, Allah sab dekhta hay.",
+    "💔 Kisi ka dil mat dukhao, dil Allah ka ghar hota hay.",
     "👵 Buzurgon ki izzat karo, dua milegi.",
     "🌱 Rozana kuch naya seekhne ki koshish karo."
 ]
 
 duaein = [
     "🛡️ Allah tumhe har burai se mehfooz rakhe.",
-    "😊 Khush raho mere bachay, har mod pe kamiyabi milay.",
+    "😊 Khosh raho mere bachay, har mod pe kaamiyabi milay.",
     "🌟 Tumhara naseeb chamak uthe, Ameen.",
     "🤝 Jahan bhi jao, log tumse pyar karein.",
     "❤️ Tumhara dil kabhi udaas na ho.",
