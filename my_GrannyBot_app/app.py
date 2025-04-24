@@ -43,13 +43,13 @@ totkay = [
 
 kahaniyan = [
     "📖 Ek baar ka zikr hai, ek chor ne buddhi aurat ki maddad ki aur baddleay mein uska dil baddal gaya.",
-    "🐦 Pyaasay kaway ne kankar daal kar paani uthaya aur sabit kiya ke soch jeet jati hai,taqqat nahi." 💧
+    "🐦 Pyaasay kaway ne kankar daal kar paani uthaya aur sabit kiya ke soch jeet jati hai,taqqat nahi.",
     "👞 Ek mochi ne apne kaam se izzat kamai aur logon ka dil jeeta.",
     "👧 Ek larki har roz ek budhi aurat ko khana dayti thi aur ussay  dua milti thi.",
     "🦁 Ek sher aur chuhe ki dosti ne sabko hayrran kar diya.",
     "🌸 Ek nanhi si bachi ne sabak diya ke ahankaar kabhi acha nahi hota.",
     "👴 Ek buzrug ne bachon ko sabr ka matlab samjhayaa.",
-    "🐦 Ek Choti si chirya ne tootay hue par ke saath bhi parwaaz ka khwab nahi chhoda."  
+    "🐦 Ek Choti si chirya ne tootay hue par ke saath bhi parwaaz ka khwab nahi chhoda." , 
     "🐢 Sab kachway ki raftaar ka mazak uratay rahe, or wohi kharghos say pahlay manzil par pohanch gaya.",
     "🙏 Ek waqt tha jab ek choti se maddad nay kisi ki zindagi baddal di."
 ]
