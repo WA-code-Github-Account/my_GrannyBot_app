@@ -42,7 +42,7 @@ totkay = [
 ]
 
 kahaniyan = [
-    "📖 Ek baar ka zikr hai, ek chor ne buddhi aurat ki maddad ki aur baddleay mein uska dil baddal gaya.",
+    "📖 Ek baar ka zikr hai, ek chor ne buddhi aurat ki maded ki aur bedleay mein uska dil badel gaya.",
     "🐦 Pyaasay kaway ne kankar daal kar paani uthaya aur sabit kiya ke soch jeet jati hai,taqqat nahi.",
     "👞 Ek mochi ne apne kaam se izzat kamai aur logon ka dil jeeta.",
     "👧 Ek larki har roz ek budhi aurat ko khana dayti thi aur ussay  dua milti thi.",
